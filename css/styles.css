@@ -30,6 +30,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .logo-item {
@@ -102,6 +103,7 @@ body {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 
 .button {
@@ -129,6 +131,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .section-back {
@@ -178,7 +181,7 @@ body {
   background-color: var(--cloud);
 }
 
-.section-four .list {
+.section-four .list .list-item {
   list-style: none;
   background-color: var(--white);
 }
